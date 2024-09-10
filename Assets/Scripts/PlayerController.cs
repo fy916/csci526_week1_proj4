@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     // Private variables
     private float speed = 20.0f;
-    private float turnSpeed = 45.0f;
+    private float turnSpeed = 75.0f;
     private float forwardInput;
     private float horizontalInput;
 
